@@ -12,3 +12,6 @@ for _ in range(n):
         message += decrypted_letter
 
 print(message)
+# Explanation:
+# In the above example, the key is 5. The program takes 3 lines of input, each containing
+# a lowercase and uppercase letter. The key is then added to each character, resulting in the decrypted message 
